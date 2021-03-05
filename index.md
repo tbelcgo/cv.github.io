@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/tbelcgo/cv.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tbelcgo/cv.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<body bgcolor= "#D0D0D0"> 
+<h2><strong>Datos Personales</strong></h2>
+<p><strong>Nombre(s) y Apellido(s):</strong> Taliha Cabrera <img src="C:\Users\User\Desktop\photo.jpg" alt="photo" width="112" height="36" /></p>
+<p><strong>C&eacute;dula de identidad:</strong> 4.000.001</p>
+<p><strong>E-mail:</strong> <a href="mailto:taliha@fpuna.edu.py">taliha@fpuna.edu.py</a></p>
+<p><strong>Telefono:</strong> 021 000 0001</p>
+<p><strong>Direcci&oacute;n:</strong> Avda. eusebio Ayala</p>
+<p><strong>Pasatiempos:</strong>&nbsp;Correr y alpinismo</p>
+<p>&nbsp;</p>
+<h2><strong>Acad&eacute;mico</strong></h2>
+<p><strong>Estudios secundarios:</strong> Bachillerato T&eacute;cnico en Informatica - CMA (2010- 2013)</p>
+<p><strong>Estudios universitarios:</strong> Lic. en Ciencias Inform&aacute;ticas - Facultad Polit&eacute;cnica UNA (cursando actualmente)</p>
+<p><strong>Idiomas:</strong> Espa&ntilde;ol, guarani e ingl&eacute;s</p>
+<p>&nbsp;</p>
+<h2><strong>Experiencia Laboral</strong></h2>
+<p><strong>Cargo:</strong> Network Center Operation</p>
+<p><strong>Funci&oacute;n:</strong> Administrador de sistemas</p>
+<p><strong>Antiguedad:</strong> 2.5 a&ntilde;os</p>
+<p><strong>Empresa:</strong> Entidad P&uacute;blica</p>
