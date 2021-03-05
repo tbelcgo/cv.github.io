@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <h2><strong>Datos Personales</strong></h2>
-<p><strong>Nombre(s) y Apellido(s):</strong> Taliha Cabrera <img src="https://github.com/tbelcgo/tbelcgo.github.io/blob/3155d69a9792d6bf929df92dc9261ab499d74fa2/photo.jpg" alt="photo" width="112" height="36" /></p>
+<p><strong>Nombre(s) y Apellido(s):</strong> Taliha Cabrera <img src="https://github.com/tbelcgo/tbelcgo.github.io/blob/3155d69a9792d6bf929df92dc9261ab499d74fa2/photo.jpg" alt="photo" width="100" height="100" /></p>
 <p><strong>C&eacute;dula de identidad:</strong> 4.000.001</p>
 <p><strong>E-mail:</strong> <a href="mailto:taliha@fpuna.edu.py">taliha@fpuna.edu.py</a></p>
 <p><strong>Telefono:</strong> 021 000 0001</p>
