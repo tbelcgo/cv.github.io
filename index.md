@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <h2><strong>Datos Personales</strong></h2>
 <p><img src="https://github.com/tbelcgo/tbelcgo.github.io/blob/3155d69a9792d6bf929df92dc9261ab499d74fa2/photo.jpg" alt="photo" width="100" height="100" /></p>
 <p><strong>Nombre(s) y Apellido(s):</strong> Taliha Cabrera</p>
